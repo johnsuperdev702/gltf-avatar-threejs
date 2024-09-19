@@ -1,6 +1,6 @@
 # gltf-avatar-threejs loader, viewer, exporter
 
-### [Live Demo](https://shrekshao.github.io/gltf-avatar-threejs/)
+### [Live Demo](https://johnsuperdev702.github.io/gltf-avatar-threejs/)
 
 ## Brief feature intro
 
